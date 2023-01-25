@@ -155,8 +155,6 @@ apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pi
 **💰 Donation Links:**
 #### Donate Links
 
-<b>BTC</b>: <code>bc1q7dhut0fp3sqmz95kth0munte6exzlrne23jtjh</code></br>
-<b>ETH</b>: <code>0xff2fAF77705de1b842fCbA29c95E5C9e7dc266Dc</code></br>
-<b>USDT TRC20</b>: <code>TNeZtxhaYYseJoUS2LWmao6cDbYciprhKz</code></br></br>
+<b>TON</b>: <code>EQClw9-KCig6iTltL58QxjSdmf2-hguBUztoXiDsIv23Oi1G</code></br>
 <b>Toman</b>: https://idpay.ir/mh-prodev</br>
 
