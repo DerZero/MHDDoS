@@ -95,14 +95,12 @@ Our social's💻
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="96" height="96" alt="telegram" />
 </div>
 
- * [Matrix Team Telegram group](https://t.me/DD0SChat)
- * [Matrix community Telegram channel](https://t.me/MatrixORG)
- * [GitHub] : [github]
+ * [Team Telegram group](https://t.me/wearecyberarmyrussia)
 ### If u Like the project Leave a star on the repository!
 
 ## Downloads
 
-You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/releases)
+You can download it from [GitHub Releases](https://github.com/DerZero/MHDDoS/releases)
 
 ### Getting Started
 
