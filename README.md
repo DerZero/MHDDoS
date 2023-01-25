@@ -144,7 +144,7 @@ pip install -r requirements.txt
 **One-Line Installing on Fresh VPS**
 
 ```shell script
-apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pip make cmake automake autoconf m4 build-essential ruby perl golang git && git clone https://github.com/MatrixTM/MHDDoS.git && cd MH* && pip3 install -r requirements.txt
+apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pip make cmake automake autoconf m4 build-essential ruby perl golang git && git clone https://github.com/DerZero/MHDDoS.git && cd MH* && pip3 install -r requirements.txt
 ```
 
 [python3]: https://python.org 'Python3'
@@ -156,5 +156,4 @@ apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pi
 #### Donate Links
 
 <b>TON</b>: <code>EQClw9-KCig6iTltL58QxjSdmf2-hguBUztoXiDsIv23Oi1G</code></br>
-<b>Toman</b>: https://idpay.ir/mh-prodev</br>
 
