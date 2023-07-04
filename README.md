@@ -131,7 +131,7 @@ You can download it from [GitHub Releases](https://github.com/DerZero/MHDDoS/rel
 
 ## Documentation
 
-You can read it from [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki)
+You can read it from [GitHub Wiki](https://github.com/DerZero/MHDDoS/wiki)
 
 **Clone and Install Script**
 
@@ -148,12 +148,12 @@ apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pi
 ```
 
 [python3]: https://python.org 'Python3'
-[github]: https://github.com/MatrixTM/MHDDoS/issues 'GitHub'
+[github]: https://github.com/DerZero/MHDDoS/issues 'GitHub'
 
 ---
 
 **💰 Donation Links:**
 #### Donate Links
 
-<b>TON</b>: <code>EQClw9-KCig6iTltL58QxjSdmf2-hguBUztoXiDsIv23Oi1G</code></br>
+<b>TON</b>: <code> 0x3C7EF92a3eab86aC80A22D1A1367214969402aDC</code></br>
 
