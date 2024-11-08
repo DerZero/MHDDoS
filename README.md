@@ -97,14 +97,14 @@ Our social's💻
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="64" height="64" alt="telegram" />
 </div>
 
- * [Matrix community Telegram channel](https://t.me/Matrix_Development)
- * [Matrix team Telegram Group](https://t.me/MatrixTMChat)
- * [GitHub](https://github.com/MatrixTM)
+ * [Matrix community Telegram channel]()
+ * [Matrix team Telegram Group]()
+ * [GitHub](https://github.com/DerZero)
 ### If u Like the project, leave a star on the repository!
 
 ## Downloads
 
-You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/releases)
+You can download it from [GitHub Releases](https://github.com/DerZero/MHDDoS/releases)
 
 ### Getting Started
 
@@ -129,7 +129,7 @@ You can read it from [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki)
 **Clone and Install Script**
 
 ```shell script
-git clone https://github.com/MatrixTM/MHDDoS.git
+git clone https://github.com/DerZero/MHDDoS.git
 cd MHDDoS
 pip install -r requirements.txt
 ```
@@ -141,7 +141,7 @@ apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pi
 ```
 
 [python3]: https://python.org 'Python3'
-[github issues]: https://github.com/MatrixTM/MHDDoS/issues 'enter'
+[github issues]: https://github.com/DerZero/MHDDoS/issues 'enter'
 
 ---
 
